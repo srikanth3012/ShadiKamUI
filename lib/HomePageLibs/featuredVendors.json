@@ -1,0 +1,62 @@
+[
+  {
+    "id": "elegant-events-123",
+    "name": "Elegant Events",
+    "category": "Wedding Planning",
+    "rating": 4.9,
+    "reviews": 127,
+    "location": "Los Angeles, CA",
+    "priceRange": "$2,000 - $8,000",
+    "image": "/placeholder.svg?height=200&width=300",
+    "verified": true,
+    "responseTime": "2 hours",
+    "completedEvents": 150,
+    "specialties": [
+      "Luxury Weddings",
+      "Destination Planning",
+      "Cultural Ceremonies"
+    ]
+  },
+  {
+    "id": "royal-caterers-456",
+    "name": "Royal Caterers",
+    "category": "Catering",
+    "rating": 4.8,
+    "reviews": 89,
+    "location": "Beverly Hills, CA",
+    "priceRange": "$75 - $150/person",
+    "image": "/placeholder.svg?height=200&width=300",
+    "verified": true,
+    "responseTime": "1 hour",
+    "completedEvents": 200,
+    "specialties": ["Multi-cuisine", "Dietary Restrictions", "Live Stations"]
+  },
+  {
+    "id": "moments-studio-789",
+    "name": "Moments Studio",
+    "category": "Photography",
+    "rating": 5.0,
+    "reviews": 156,
+    "location": "Malibu, CA",
+    "priceRange": "$3,000 - $12,000",
+    "image": "/placeholder.svg?height=200&width=300",
+    "verified": true,
+    "responseTime": "30 minutes",
+    "completedEvents": 300,
+    "specialties": ["Cinematic Style", "Drone Photography", "Same-day Editing"]
+  },
+  {
+    "id": "melody-makers-012",
+    "name": "Melody Makers",
+    "category": "Entertainment",
+    "rating": 4.7,
+    "reviews": 94,
+    "location": "Hollywood, CA",
+    "priceRange": "$1,500 - $5,000",
+    "image": "/placeholder.svg?height=200&width=300",
+    "verified": false,
+    "responseTime": "4 hours",
+    "completedEvents": 120,
+    "specialties": ["Live Bands", "DJ Services", "Cultural Music"]
+  }
+]

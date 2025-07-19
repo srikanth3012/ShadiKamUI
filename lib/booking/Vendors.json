@@ -1,0 +1,80 @@
+[
+  {
+    "id": "elegant-events",
+    "name": "Elegant Events",
+    "category": "Wedding Planning",
+    "rating": 4.9,
+    "reviews": 127,
+    "responseTime": "2 hours",
+    "location": "Los Angeles, CA",
+    "verified": true,
+    "priceRange": "$2,000 - $8,000",
+    "specialties": ["Luxury Weddings", "Cultural Ceremonies"],
+    "image": "/placeholder.svg?height=80&width=80"
+  },
+  {
+    "id": "royal-caterers",
+    "name": "Royal Caterers",
+    "category": "Catering",
+    "rating": 4.8,
+    "reviews": 89,
+    "responseTime": "1 hour",
+    "location": "Beverly Hills, CA",
+    "verified": true,
+    "priceRange": "$75 - $150/person",
+    "specialties": ["Multi-cuisine", "Dietary Restrictions"],
+    "image": "/placeholder.svg?height=80&width=80"
+  },
+  {
+    "id": "moments-studio",
+    "name": "Moments Studio",
+    "category": "Photography",
+    "rating": 5.0,
+    "reviews": 156,
+    "responseTime": "30 minutes",
+    "location": "Malibu, CA",
+    "verified": true,
+    "priceRange": "$3,000 - $12,000",
+    "specialties": ["Cinematic Style", "Drone Photography"],
+    "image": "/placeholder.svg?height=80&width=80"
+  },
+  {
+    "id": "melody-makers",
+    "name": "Melody Makers",
+    "category": "Entertainment",
+    "rating": 4.7,
+    "reviews": 94,
+    "responseTime": "4 hours",
+    "location": "Hollywood, CA",
+    "verified": false,
+    "priceRange": "$1,500 - $5,000",
+    "specialties": ["Live Bands", "Cultural Music"],
+    "image": "/placeholder.svg?height=80&width=80"
+  },
+  {
+    "id": "bloom-florists",
+    "name": "Bloom Florists",
+    "category": "Floral",
+    "rating": 4.6,
+    "reviews": 78,
+    "responseTime": "3 hours",
+    "location": "Pasadena, CA",
+    "verified": true,
+    "priceRange": "$800 - $3,000",
+    "specialties": ["Seasonal Flowers", "Custom Arrangements"],
+    "image": "/placeholder.svg?height=80&width=80"
+  },
+  {
+    "id": "dream-venues",
+    "name": "Dream Venues",
+    "category": "Venue",
+    "rating": 4.8,
+    "reviews": 112,
+    "responseTime": "1 hour",
+    "location": "Santa Monica, CA",
+    "verified": true,
+    "priceRange": "$2,000 - $10,000",
+    "specialties": ["Beachfront", "Garden Settings"],
+    "image": "/placeholder.svg?height=80&width=80"
+  }
+]

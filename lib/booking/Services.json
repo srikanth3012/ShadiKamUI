@@ -1,0 +1,86 @@
+[
+  {
+    "id": "planning",
+    "name": "Wedding Planning",
+    "price": "From $2,000",
+    "description": "Complete wedding planning from start to finish",
+    "duration": "12+ months",
+    "popular": true,
+    "features": [
+      "Timeline creation",
+      "Vendor coordination",
+      "Budget management",
+      "Design consultation"
+    ]
+  },
+  {
+    "id": "photography",
+    "name": "Photography",
+    "price": "From $1,500",
+    "description": "Professional wedding photography services",
+    "duration": "Full day",
+    "popular": true,
+    "features": [
+      "Pre-wedding shoot",
+      "Wedding day coverage",
+      "Professional editing",
+      "Online gallery"
+    ]
+  },
+  {
+    "id": "catering",
+    "name": "Catering",
+    "price": "From $50/person",
+    "description": "Delicious catering for your special day",
+    "duration": "Event day",
+    "popular": false,
+    "features": [
+      "Multi-cuisine options",
+      "Custom menus",
+      "Professional service",
+      "Dietary accommodations"
+    ]
+  },
+  {
+    "id": "venue",
+    "name": "Venue Decoration",
+    "price": "From $1,000",
+    "description": "Beautiful venue decoration and setup",
+    "duration": "Setup day",
+    "popular": false,
+    "features": [
+      "Floral arrangements",
+      "Lighting design",
+      "Table settings",
+      "Backdrop creation"
+    ]
+  },
+  {
+    "id": "entertainment",
+    "name": "Entertainment",
+    "price": "From $800",
+    "description": "Music and entertainment services",
+    "duration": "4-8 hours",
+    "popular": false,
+    "features": [
+      "DJ services",
+      "Live music",
+      "Sound system",
+      "Lighting effects"
+    ]
+  },
+  {
+    "id": "flowers",
+    "name": "Floral Arrangements",
+    "price": "From $600",
+    "description": "Beautiful floral designs for your wedding",
+    "duration": "Event day",
+    "popular": true,
+    "features": [
+      "Bridal bouquet",
+      "Centerpieces",
+      "Ceremony decor",
+      "Boutonnières"
+    ]
+  }
+]

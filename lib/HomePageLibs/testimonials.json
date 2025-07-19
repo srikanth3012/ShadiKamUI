@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Sarah & Michael",
+    "location": "Beverly Hills Wedding",
+    "rating": 5,
+    "text": "ShadiKam made our dream wedding come true! The vendor coordination was flawless, and every detail was perfect. We couldn't have asked for a better experience.",
+    "image": "/placeholder.svg?height=60&width=60",
+    "weddingDate": "June 2024",
+    "guestCount": 200
+  },
+  {
+    "name": "Priya & James",
+    "location": "Malibu Beach Ceremony",
+    "rating": 5,
+    "text": "The platform connected us with amazing vendors who understood our vision for a multicultural celebration. Everything was seamless from planning to execution.",
+    "image": "/placeholder.svg?height=60&width=60",
+    "weddingDate": "April 2024",
+    "guestCount": 150
+  },
+  {
+    "name": "Emily & David",
+    "location": "Downtown LA Reception",
+    "rating": 5,
+    "text": "Professional, reliable, and creative vendors all in one place. The booking system made everything so easy, and our wedding day was absolutely magical!",
+    "image": "/placeholder.svg?height=60&width=60",
+    "weddingDate": "March 2024",
+    "guestCount": 180
+  }
+]

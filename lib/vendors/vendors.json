@@ -1,0 +1,634 @@
+[
+  {
+    "id": "1",
+    "name": "Eternal Moments Photography",
+    "category": "Photography",
+    "location": "Los Angeles, CA",
+    "rating": 4.9,
+    "reviewCount": 156,
+    "completedEvents": 200,
+    "startingPrice": 2500,
+    "verified": true,
+    "featured": true,
+    "responseTime": "2 hours",
+    "availability": "Available",
+    "image": "/placeholder.svg?height=300&width=400",
+    "avatar": "/placeholder.svg?height=80&width=80",
+    "specialties": [
+      "Wedding Photography",
+      "Engagement Shoots",
+      "Destination Weddings"
+    ],
+    "awards": ["Best Wedding Photographer 2023", "Top Rated Professional"],
+    "description": "Capturing your most precious moments with artistic vision and professional excellence.",
+    "portfolio": [
+      "/placeholder.svg?height=200&width=300",
+      "/placeholder.svg?height=200&width=300",
+      "/placeholder.svg?height=200&width=300"
+    ],
+    "packages": [
+      {
+        "name": "Essential",
+        "price": 2500,
+        "features": ["6 hours coverage", "300+ edited photos", "Online gallery"]
+      },
+      {
+        "name": "Premium",
+        "price": 3500,
+        "features": [
+          "8 hours coverage",
+          "500+ edited photos",
+          "Engagement session",
+          "Print release"
+        ]
+      },
+      {
+        "name": "Luxury",
+        "price": 4500,
+        "features": [
+          "Full day coverage",
+          "800+ edited photos",
+          "Second photographer",
+          "Wedding album"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Harmony Wedding Planners",
+    "category": "Wedding Planning",
+    "location": "Beverly Hills, CA",
+    "rating": 4.8,
+    "reviewCount": 89,
+    "completedEvents": 120,
+    "startingPrice": 5000,
+    "verified": true,
+    "featured": true,
+    "responseTime": "1 hour",
+    "availability": "Available",
+    "image": "/placeholder.svg?height=300&width=400",
+    "avatar": "/placeholder.svg?height=80&width=80",
+    "specialties": [
+      "Luxury Weddings",
+      "Destination Planning",
+      "Cultural Ceremonies"
+    ],
+    "awards": ["Wedding Planner of the Year", "Excellence in Service"],
+    "description": "Creating unforgettable wedding experiences with meticulous attention to detail.",
+    "portfolio": [
+      "/placeholder.svg?height=200&width=300",
+      "/placeholder.svg?height=200&width=300",
+      "/placeholder.svg?height=200&width=300"
+    ],
+    "packages": [
+      {
+        "name": "Coordination",
+        "price": 5000,
+        "features": [
+          "Day-of coordination",
+          "Timeline management",
+          "Vendor communication"
+        ]
+      },
+      {
+        "name": "Partial Planning",
+        "price": 8000,
+        "features": [
+          "3 months planning",
+          "Vendor recommendations",
+          "Design consultation"
+        ]
+      },
+      {
+        "name": "Full Planning",
+        "price": 12000,
+        "features": [
+          "12 months planning",
+          "Complete vendor management",
+          "Unlimited consultations"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Melodic Strings Quartet",
+    "category": "Music",
+    "location": "Santa Monica, CA",
+    "rating": 4.7,
+    "reviewCount": 73,
+    "completedEvents": 95,
+    "startingPrice": 1200,
+    "verified": true,
+    "featured": false,
+    "responseTime": "3 hours",
+    "availability": "Limited",
+    "image": "/placeholder.svg?height=300&width=400",
+    "avatar": "/placeholder.svg?height=80&width=80",
+    "specialties": [
+      "Classical Music",
+      "Contemporary Arrangements",
+      "Ceremony Music"
+    ],
+    "awards": ["Best Classical Ensemble"],
+    "description": "Elegant string quartet performances for your special day.",
+    "portfolio": [
+      "/placeholder.svg?height=200&width=300",
+      "/placeholder.svg?height=200&width=300"
+    ],
+    "packages": [
+      {
+        "name": "Ceremony",
+        "price": 1200,
+        "features": [
+          "2 hours performance",
+          "Processional music",
+          "Custom song requests"
+        ]
+      },
+      {
+        "name": "Reception",
+        "price": 1800,
+        "features": ["4 hours performance", "Cocktail hour", "Dinner music"]
+      },
+      {
+        "name": "Full Event",
+        "price": 2500,
+        "features": [
+          "6 hours performance",
+          "Ceremony & reception",
+          "Special arrangements"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Gourmet Delights Catering",
+    "category": "Catering",
+    "location": "Pasadena, CA",
+    "rating": 4.6,
+    "reviewCount": 124,
+    "completedEvents": 180,
+    "startingPrice": 85,
+    "verified": true,
+    "featured": false,
+    "responseTime": "4 hours",
+    "availability": "Available",
+    "image": "/placeholder.svg?height=300&width=400",
+    "avatar": "/placeholder.svg?height=80&width=80",
+    "specialties": [
+      "Fine Dining",
+      "International Cuisine",
+      "Dietary Accommodations"
+    ],
+    "awards": ["Best Catering Service 2023"],
+    "description": "Exquisite culinary experiences tailored to your taste and style.",
+    "portfolio": [
+      "/placeholder.svg?height=200&width=300",
+      "/placeholder.svg?height=200&width=300",
+      "/placeholder.svg?height=200&width=300"
+    ],
+    "packages": [
+      {
+        "name": "Basic",
+        "price": 85,
+        "features": ["Per person pricing", "3-course meal", "Service staff"]
+      },
+      {
+        "name": "Premium",
+        "price": 125,
+        "features": [
+          "Per person pricing",
+          "5-course meal",
+          "Premium ingredients",
+          "Sommelier"
+        ]
+      },
+      {
+        "name": "Luxury",
+        "price": 180,
+        "features": [
+          "Per person pricing",
+          "7-course tasting",
+          "Chef presentation",
+          "Wine pairing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Bloom & Blossom Florals",
+    "category": "Florals",
+    "location": "Manhattan Beach, CA",
+    "rating": 4.8,
+    "reviewCount": 91,
+    "completedEvents": 110,
+    "startingPrice": 800,
+    "verified": true,
+    "featured": true,
+    "responseTime": "2 hours",
+    "availability": "Available",
+    "image": "/placeholder.svg?height=300&width=400",
+    "avatar": "/placeholder.svg?height=80&width=80",
+    "specialties": [
+      "Bridal Bouquets",
+      "Ceremony Arrangements",
+      "Reception Centerpieces"
+    ],
+    "awards": ["Florist of the Year", "Creative Excellence Award"],
+    "description": "Creating stunning floral designs that bring your wedding vision to life.",
+    "portfolio": [
+      "/placeholder.svg?height=200&width=300",
+      "/placeholder.svg?height=200&width=300",
+      "/placeholder.svg?height=200&width=300"
+    ],
+    "packages": [
+      {
+        "name": "Essential",
+        "price": 800,
+        "features": ["Bridal bouquet", "Groom boutonniere", "4 centerpieces"]
+      },
+      {
+        "name": "Complete",
+        "price": 1500,
+        "features": [
+          "Full bridal party flowers",
+          "Ceremony arch",
+          "8 centerpieces"
+        ]
+      },
+      {
+        "name": "Luxury",
+        "price": 2500,
+        "features": [
+          "Premium flowers",
+          "Full venue decoration",
+          "Unlimited arrangements"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Elite Transportation Services",
+    "category": "Transportation",
+    "location": "Hollywood, CA",
+    "rating": 4.5,
+    "reviewCount": 67,
+    "completedEvents": 85,
+    "startingPrice": 300,
+    "verified": true,
+    "featured": false,
+    "responseTime": "1 hour",
+    "availability": "Available",
+    "image": "/placeholder.svg?height=300&width=400",
+    "avatar": "/placeholder.svg?height=80&width=80",
+    "specialties": ["Luxury Vehicles", "Wedding Parties", "Airport Transfers"],
+    "awards": ["Reliable Service Award"],
+    "description": "Luxury transportation services for your wedding day and guests.",
+    "portfolio": [
+      "/placeholder.svg?height=200&width=300",
+      "/placeholder.svg?height=200&width=300"
+    ],
+    "packages": [
+      {
+        "name": "Couple",
+        "price": 300,
+        "features": ["3 hours service", "Luxury sedan", "Decorated vehicle"]
+      },
+      {
+        "name": "Wedding Party",
+        "price": 600,
+        "features": ["6 hours service", "Luxury SUV", "Multiple stops"]
+      },
+      {
+        "name": "Full Service",
+        "price": 1200,
+        "features": [
+          "Full day service",
+          "Multiple vehicles",
+          "Guest transportation"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Eternal Moments Photography",
+    "category": "Photography",
+    "location": "Los Angeles, CA",
+    "rating": 4.9,
+    "reviewCount": 156,
+    "completedEvents": 200,
+    "startingPrice": 2500,
+    "verified": true,
+    "featured": true,
+    "responseTime": "2 hours",
+    "availability": "Available",
+    "image": "/placeholder.svg?height=300&width=400",
+    "avatar": "/placeholder.svg?height=80&width=80",
+    "specialties": [
+      "Wedding Photography",
+      "Engagement Shoots",
+      "Destination Weddings"
+    ],
+    "awards": ["Best Wedding Photographer 2023", "Top Rated Professional"],
+    "description": "Capturing your most precious moments with artistic vision and professional excellence.",
+    "portfolio": [
+      "/placeholder.svg?height=200&width=300",
+      "/placeholder.svg?height=200&width=300",
+      "/placeholder.svg?height=200&width=300"
+    ],
+    "packages": [
+      {
+        "name": "Essential",
+        "price": 2500,
+        "features": ["6 hours coverage", "300+ edited photos", "Online gallery"]
+      },
+      {
+        "name": "Premium",
+        "price": 3500,
+        "features": [
+          "8 hours coverage",
+          "500+ edited photos",
+          "Engagement session",
+          "Print release"
+        ]
+      },
+      {
+        "name": "Luxury",
+        "price": 4500,
+        "features": [
+          "Full day coverage",
+          "800+ edited photos",
+          "Second photographer",
+          "Wedding album"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Harmony Wedding Planners",
+    "category": "Wedding Planning",
+    "location": "Beverly Hills, CA",
+    "rating": 4.8,
+    "reviewCount": 89,
+    "completedEvents": 120,
+    "startingPrice": 5000,
+    "verified": true,
+    "featured": true,
+    "responseTime": "1 hour",
+    "availability": "Available",
+    "image": "/placeholder.svg?height=300&width=400",
+    "avatar": "/placeholder.svg?height=80&width=80",
+    "specialties": [
+      "Luxury Weddings",
+      "Destination Planning",
+      "Cultural Ceremonies"
+    ],
+    "awards": ["Wedding Planner of the Year", "Excellence in Service"],
+    "description": "Creating unforgettable wedding experiences with meticulous attention to detail.",
+    "portfolio": [
+      "/placeholder.svg?height=200&width=300",
+      "/placeholder.svg?height=200&width=300",
+      "/placeholder.svg?height=200&width=300"
+    ],
+    "packages": [
+      {
+        "name": "Coordination",
+        "price": 5000,
+        "features": [
+          "Day-of coordination",
+          "Timeline management",
+          "Vendor communication"
+        ]
+      },
+      {
+        "name": "Partial Planning",
+        "price": 8000,
+        "features": [
+          "3 months planning",
+          "Vendor recommendations",
+          "Design consultation"
+        ]
+      },
+      {
+        "name": "Full Planning",
+        "price": 12000,
+        "features": [
+          "12 months planning",
+          "Complete vendor management",
+          "Unlimited consultations"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Melodic Strings Quartet",
+    "category": "Music",
+    "location": "Santa Monica, CA",
+    "rating": 4.7,
+    "reviewCount": 73,
+    "completedEvents": 95,
+    "startingPrice": 1200,
+    "verified": true,
+    "featured": false,
+    "responseTime": "3 hours",
+    "availability": "Limited",
+    "image": "/placeholder.svg?height=300&width=400",
+    "avatar": "/placeholder.svg?height=80&width=80",
+    "specialties": [
+      "Classical Music",
+      "Contemporary Arrangements",
+      "Ceremony Music"
+    ],
+    "awards": ["Best Classical Ensemble"],
+    "description": "Elegant string quartet performances for your special day.",
+    "portfolio": [
+      "/placeholder.svg?height=200&width=300",
+      "/placeholder.svg?height=200&width=300"
+    ],
+    "packages": [
+      {
+        "name": "Ceremony",
+        "price": 1200,
+        "features": [
+          "2 hours performance",
+          "Processional music",
+          "Custom song requests"
+        ]
+      },
+      {
+        "name": "Reception",
+        "price": 1800,
+        "features": ["4 hours performance", "Cocktail hour", "Dinner music"]
+      },
+      {
+        "name": "Full Event",
+        "price": 2500,
+        "features": [
+          "6 hours performance",
+          "Ceremony & reception",
+          "Special arrangements"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Gourmet Delights Catering",
+    "category": "Catering",
+    "location": "Pasadena, CA",
+    "rating": 4.6,
+    "reviewCount": 124,
+    "completedEvents": 180,
+    "startingPrice": 85,
+    "verified": true,
+    "featured": false,
+    "responseTime": "4 hours",
+    "availability": "Available",
+    "image": "/placeholder.svg?height=300&width=400",
+    "avatar": "/placeholder.svg?height=80&width=80",
+    "specialties": [
+      "Fine Dining",
+      "International Cuisine",
+      "Dietary Accommodations"
+    ],
+    "awards": ["Best Catering Service 2023"],
+    "description": "Exquisite culinary experiences tailored to your taste and style.",
+    "portfolio": [
+      "/placeholder.svg?height=200&width=300",
+      "/placeholder.svg?height=200&width=300",
+      "/placeholder.svg?height=200&width=300"
+    ],
+    "packages": [
+      {
+        "name": "Basic",
+        "price": 85,
+        "features": ["Per person pricing", "3-course meal", "Service staff"]
+      },
+      {
+        "name": "Premium",
+        "price": 125,
+        "features": [
+          "Per person pricing",
+          "5-course meal",
+          "Premium ingredients",
+          "Sommelier"
+        ]
+      },
+      {
+        "name": "Luxury",
+        "price": 180,
+        "features": [
+          "Per person pricing",
+          "7-course tasting",
+          "Chef presentation",
+          "Wine pairing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "name": "Bloom & Blossom Florals",
+    "category": "Florals",
+    "location": "Manhattan Beach, CA",
+    "rating": 4.8,
+    "reviewCount": 91,
+    "completedEvents": 110,
+    "startingPrice": 800,
+    "verified": true,
+    "featured": true,
+    "responseTime": "2 hours",
+    "availability": "Available",
+    "image": "/placeholder.svg?height=300&width=400",
+    "avatar": "/placeholder.svg?height=80&width=80",
+    "specialties": [
+      "Bridal Bouquets",
+      "Ceremony Arrangements",
+      "Reception Centerpieces"
+    ],
+    "awards": ["Florist of the Year", "Creative Excellence Award"],
+    "description": "Creating stunning floral designs that bring your wedding vision to life.",
+    "portfolio": [
+      "/placeholder.svg?height=200&width=300",
+      "/placeholder.svg?height=200&width=300",
+      "/placeholder.svg?height=200&width=300"
+    ],
+    "packages": [
+      {
+        "name": "Essential",
+        "price": 800,
+        "features": ["Bridal bouquet", "Groom boutonniere", "4 centerpieces"]
+      },
+      {
+        "name": "Complete",
+        "price": 1500,
+        "features": [
+          "Full bridal party flowers",
+          "Ceremony arch",
+          "8 centerpieces"
+        ]
+      },
+      {
+        "name": "Luxury",
+        "price": 2500,
+        "features": [
+          "Premium flowers",
+          "Full venue decoration",
+          "Unlimited arrangements"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Elite Transportation Services",
+    "category": "Transportation",
+    "location": "Hollywood, CA",
+    "rating": 4.5,
+    "reviewCount": 67,
+    "completedEvents": 85,
+    "startingPrice": 300,
+    "verified": true,
+    "featured": false,
+    "responseTime": "1 hour",
+    "availability": "Available",
+    "image": "/placeholder.svg?height=300&width=400",
+    "avatar": "/placeholder.svg?height=80&width=80",
+    "specialties": ["Luxury Vehicles", "Wedding Parties", "Airport Transfers"],
+    "awards": ["Reliable Service Award"],
+    "description": "Luxury transportation services for your wedding day and guests.",
+    "portfolio": [
+      "/placeholder.svg?height=200&width=300",
+      "/placeholder.svg?height=200&width=300"
+    ],
+    "packages": [
+      {
+        "name": "Couple",
+        "price": 300,
+        "features": ["3 hours service", "Luxury sedan", "Decorated vehicle"]
+      },
+      {
+        "name": "Wedding Party",
+        "price": 600,
+        "features": ["6 hours service", "Luxury SUV", "Multiple stops"]
+      },
+      {
+        "name": "Full Service",
+        "price": 1200,
+        "features": [
+          "Full day service",
+          "Multiple vehicles",
+          "Guest transportation"
+        ]
+      }
+    ]
+  }
+]

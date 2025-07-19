@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "couple": "Jessica & David",
+    "rating": 5,
+    "date": "2 weeks ago",
+    "event": "Garden Wedding - 150 guests",
+    "review": "Sarah and her team at Elegant Events made our dream wedding come true! From the initial consultation to the last dance, every detail was perfect. They handled all the stress so we could just enjoy our special day. The vendor coordination was flawless, and the timeline kept everything running smoothly. We received so many compliments from our guests about how beautiful and well-organized everything was. Worth every penny!",
+    "helpful": 24,
+    "verified": true,
+    "images": ["/placeholder.svg?height=200&width=300"]
+  },
+  {
+    "id": 2,
+    "couple": "Priya & James",
+    "rating": 5,
+    "date": "1 month ago",
+    "event": "Cultural Fusion Wedding - 300 guests",
+    "review": "Planning a fusion wedding seemed overwhelming until we found Elegant Events. They understood both our cultures and created a celebration that honored our traditions while feeling modern and fresh. The attention to detail was incredible - from the ceremony setup to the reception decor. Our families were amazed at how seamlessly everything flowed between the different cultural elements.",
+    "helpful": 18,
+    "verified": true,
+    "images": []
+  },
+  {
+    "id": 3,
+    "couple": "Amanda & Michael",
+    "rating": 5,
+    "date": "2 months ago",
+    "event": "Destination Wedding - 80 guests",
+    "review": "We hired Elegant Events for our destination wedding in Napa Valley, and they exceeded all expectations. They handled all the logistics of getting our guests there, coordinated with local vendors we'd never met, and made sure every detail was perfect. The day was absolutely magical, and we didn't have to worry about a single thing. Highly recommend for destination weddings!",
+    "helpful": 15,
+    "verified": true,
+    "images": [
+      "/placeholder.svg?height=200&width=300",
+      "/placeholder.svg?height=200&width=300"
+    ]
+  }
+]

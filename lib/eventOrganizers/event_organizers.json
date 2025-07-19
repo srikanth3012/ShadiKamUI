@@ -1,0 +1,391 @@
+[
+  {
+    "id": "elegant-events-123",
+    "businessName": "Elegant Events & Co.",
+    "tagline": "Creating Magical Moments That Last Forever",
+    "description": "Luxury wedding planning with 10+ years of experience specializing in high-end celebrations.",
+    "owner": "Sarah Johnson & Michael Chen",
+    "email": "hello@elegantevents.com",
+    "phone": "+1 (555) 123-4567",
+    "website": "www.elegantevents.com",
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "region": "Southern California"
+    },
+    "specialties": [
+      "Luxury Weddings",
+      "Destination Weddings",
+      "Cultural Ceremonies"
+    ],
+    "pricing": {
+      "startingPrice": 8000,
+      "priceRange": "$8,000 - $25,000",
+      "consultationFee": "Free"
+    },
+    "experience": {
+      "yearsInBusiness": 10,
+      "eventsCompleted": 300,
+      "teamSize": 8
+    },
+    "rating": 4.9,
+    "reviewCount": 187,
+    "responseTime": "Within 2 hours",
+    "verified": true,
+    "backgroundChecked": true,
+    "insured": true,
+    "profileImage": "/placeholder.svg?height=150&width=150",
+    "coverImage": "/placeholder.svg?height=200&width=400",
+    "featured": true,
+    "awards": ["Best Wedding Planner 2023", "Excellence in Service Award"],
+    "certifications": ["Certified Wedding Planner", "Luxury Event Specialist"]
+  },
+  {
+    "id": "dream-weddings-456",
+    "businessName": "Dream Weddings Studio",
+    "tagline": "Where Dreams Become Reality",
+    "description": "Boutique wedding planning focused on intimate and personalized celebrations with attention to detail.",
+    "owner": "Emily Rodriguez",
+    "email": "info@dreamweddingsstudio.com",
+    "phone": "+1 (555) 234-5678",
+    "website": "www.dreamweddingsstudio.com",
+    "location": {
+      "city": "San Francisco",
+      "state": "CA",
+      "region": "Northern California"
+    },
+    "specialties": ["Intimate Weddings", "Garden Ceremonies", "Vintage Style"],
+    "pricing": {
+      "startingPrice": 4500,
+      "priceRange": "$4,500 - $15,000",
+      "consultationFee": "Free"
+    },
+    "experience": {
+      "yearsInBusiness": 7,
+      "eventsCompleted": 150,
+      "teamSize": 4
+    },
+    "rating": 4.8,
+    "reviewCount": 92,
+    "responseTime": "Within 4 hours",
+    "verified": true,
+    "backgroundChecked": true,
+    "insured": true,
+    "profileImage": "/placeholder.svg?height=150&width=150",
+    "coverImage": "/placeholder.svg?height=200&width=400",
+    "featured": false,
+    "awards": ["Rising Star Award 2023"],
+    "certifications": ["Certified Event Planner"]
+  },
+  {
+    "id": "royal-celebrations-789",
+    "businessName": "Royal Celebrations",
+    "tagline": "Fit for Royalty, Made for You",
+    "description": "Premier event planning company specializing in grand celebrations and luxury experiences.",
+    "owner": "Victoria Sterling & James Windsor",
+    "email": "contact@royalcelebrations.com",
+    "phone": "+1 (555) 345-6789",
+    "website": "www.royalcelebrations.com",
+    "location": {
+      "city": "Beverly Hills",
+      "state": "CA",
+      "region": "Southern California"
+    },
+    "specialties": [
+      "Luxury Weddings",
+      "Celebrity Events",
+      "Grand Ballroom Affairs"
+    ],
+    "pricing": {
+      "startingPrice": 15000,
+      "priceRange": "$15,000 - $50,000",
+      "consultationFee": "$500"
+    },
+    "experience": {
+      "yearsInBusiness": 15,
+      "eventsCompleted": 500,
+      "teamSize": 12
+    },
+    "rating": 4.9,
+    "reviewCount": 234,
+    "responseTime": "Within 1 hour",
+    "verified": true,
+    "backgroundChecked": true,
+    "insured": true,
+    "profileImage": "/placeholder.svg?height=150&width=150",
+    "coverImage": "/placeholder.svg?height=200&width=400",
+    "featured": true,
+    "awards": ["Luxury Event Planner of the Year", "Celebrity Choice Award"],
+    "certifications": ["Master Event Planner", "Luxury Specialist"]
+  },
+  {
+    "id": "blissful-beginnings-012",
+    "businessName": "Blissful Beginnings",
+    "tagline": "Your Perfect Start to Forever",
+    "description": "Affordable wedding planning without compromising on quality, perfect for budget-conscious couples.",
+    "owner": "Maria Gonzalez",
+    "email": "hello@blissfulbeginnings.com",
+    "phone": "+1 (555) 456-7890",
+    "website": "www.blissfulbeginnings.com",
+    "location": {
+      "city": "San Diego",
+      "state": "CA",
+      "region": "Southern California"
+    },
+    "specialties": ["Budget Weddings", "DIY Assistance", "Beach Ceremonies"],
+    "pricing": {
+      "startingPrice": 2500,
+      "priceRange": "$2,500 - $8,000",
+      "consultationFee": "Free"
+    },
+    "experience": {
+      "yearsInBusiness": 5,
+      "eventsCompleted": 120,
+      "teamSize": 3
+    },
+    "rating": 4.7,
+    "reviewCount": 78,
+    "responseTime": "Within 6 hours",
+    "verified": true,
+    "backgroundChecked": true,
+    "insured": true,
+    "profileImage": "/placeholder.svg?height=150&width=150",
+    "coverImage": "/placeholder.svg?height=200&width=400",
+    "featured": false,
+    "awards": ["Best Value Planner 2023"],
+    "certifications": ["Certified Wedding Coordinator"]
+  },
+  {
+    "id": "cultural-celebrations-345",
+    "businessName": "Cultural Celebrations Co.",
+    "tagline": "Honoring Traditions, Creating Memories",
+    "description": "Specialized in multicultural weddings, bringing together different traditions in beautiful harmony.",
+    "owner": "Raj Patel & Aisha Khan",
+    "email": "info@culturalcelebrations.com",
+    "phone": "+1 (555) 567-8901",
+    "website": "www.culturalcelebrations.com",
+    "location": {
+      "city": "Fremont",
+      "state": "CA",
+      "region": "Northern California"
+    },
+    "specialties": [
+      "Indian Weddings",
+      "Fusion Ceremonies",
+      "Religious Traditions"
+    ],
+    "pricing": {
+      "startingPrice": 6000,
+      "priceRange": "$6,000 - $20,000",
+      "consultationFee": "Free"
+    },
+    "experience": {
+      "yearsInBusiness": 8,
+      "eventsCompleted": 200,
+      "teamSize": 6
+    },
+    "rating": 4.8,
+    "reviewCount": 145,
+    "responseTime": "Within 3 hours",
+    "verified": true,
+    "backgroundChecked": true,
+    "insured": true,
+    "profileImage": "/placeholder.svg?height=150&width=150",
+    "coverImage": "/placeholder.svg?height=200&width=400",
+    "featured": false,
+    "awards": ["Cultural Wedding Expert 2023"],
+    "certifications": [
+      "Cultural Wedding Specialist",
+      "Religious Ceremony Coordinator"
+    ]
+  },
+  {
+    "id": "modern-moments-678",
+    "businessName": "Modern Moments",
+    "tagline": "Contemporary Celebrations for Modern Couples",
+    "description": "Trendy and innovative wedding planning for couples who want something unique and Instagram-worthy.",
+    "owner": "Alex Thompson & Jordan Lee",
+    "email": "hello@modernmoments.com",
+    "phone": "+1 (555) 678-9012",
+    "website": "www.modernmoments.com",
+    "location": {
+      "city": "Oakland",
+      "state": "CA",
+      "region": "Northern California"
+    },
+    "specialties": [
+      "Modern Weddings",
+      "Industrial Venues",
+      "Social Media Ready"
+    ],
+    "pricing": {
+      "startingPrice": 5500,
+      "priceRange": "$5,500 - $18,000",
+      "consultationFee": "Free"
+    },
+    "experience": {
+      "yearsInBusiness": 6,
+      "eventsCompleted": 180,
+      "teamSize": 5
+    },
+    "rating": 4.6,
+    "reviewCount": 89,
+    "responseTime": "Within 4 hours",
+    "verified": true,
+    "backgroundChecked": true,
+    "insured": true,
+    "profileImage": "/placeholder.svg?height=150&width=150",
+    "coverImage": "/placeholder.svg?height=200&width=400",
+    "featured": false,
+    "awards": ["Trendsetter Award 2023"],
+    "certifications": ["Modern Event Specialist"]
+  },
+  {
+    "id": "seaside-ceremonies-901",
+    "businessName": "Seaside Ceremonies",
+    "tagline": "Ocean Views, Endless Love",
+    "description": "Specializing in breathtaking beach and coastal weddings with natural beauty as the backdrop.",
+    "owner": "Captain Marina Wells",
+    "email": "info@seasideceremonies.com",
+    "phone": "+1 (555) 789-0123",
+    "website": "www.seasideceremonies.com",
+    "location": {
+      "city": "Monterey",
+      "state": "CA",
+      "region": "Central California"
+    },
+    "specialties": ["Beach Weddings", "Coastal Venues", "Nautical Themes"],
+    "pricing": {
+      "startingPrice": 4000,
+      "priceRange": "$4,000 - $12,000",
+      "consultationFee": "Free"
+    },
+    "experience": {
+      "yearsInBusiness": 9,
+      "eventsCompleted": 220,
+      "teamSize": 4
+    },
+    "rating": 4.7,
+    "reviewCount": 156,
+    "responseTime": "Within 5 hours",
+    "verified": true,
+    "backgroundChecked": true,
+    "insured": true,
+    "profileImage": "/placeholder.svg?height=150&width=150",
+    "coverImage": "/placeholder.svg?height=200&width=400",
+    "featured": false,
+    "awards": ["Best Beach Wedding Planner"],
+    "certifications": ["Coastal Event Specialist"]
+  },
+  {
+    "id": "vintage-vows-234",
+    "businessName": "Vintage Vows & Co.",
+    "tagline": "Timeless Romance, Classic Elegance",
+    "description": "Creating romantic vintage-inspired weddings with classic charm and timeless elegance.",
+    "owner": "Grace Pemberton",
+    "email": "grace@vintagevows.com",
+    "phone": "+1 (555) 890-1234",
+    "website": "www.vintagevows.com",
+    "location": {
+      "city": "Napa",
+      "state": "CA",
+      "region": "Northern California"
+    },
+    "specialties": ["Vintage Weddings", "Rustic Charm", "Wine Country"],
+    "pricing": {
+      "startingPrice": 7000,
+      "priceRange": "$7,000 - $22,000",
+      "consultationFee": "Free"
+    },
+    "experience": {
+      "yearsInBusiness": 11,
+      "eventsCompleted": 280,
+      "teamSize": 7
+    },
+    "rating": 4.8,
+    "reviewCount": 198,
+    "responseTime": "Within 3 hours",
+    "verified": true,
+    "backgroundChecked": true,
+    "insured": true,
+    "profileImage": "/placeholder.svg?height=150&width=150",
+    "coverImage": "/placeholder.svg?height=200&width=400",
+    "featured": true,
+    "awards": ["Vintage Style Expert", "Wine Country Wedding Specialist"],
+    "certifications": ["Vintage Wedding Specialist", "Rustic Event Coordinator"]
+  },
+  {
+    "id": "eco-elegant-567",
+    "businessName": "Eco Elegant Events",
+    "tagline": "Sustainable Celebrations, Beautiful Memories",
+    "description": "Environmentally conscious wedding planning with sustainable practices and eco-friendly vendors.",
+    "owner": "Luna Green & River Stone",
+    "email": "hello@ecoelegantevents.com",
+    "phone": "+1 (555) 901-2345",
+    "website": "www.ecoelegantevents.com",
+    "location": {
+      "city": "Santa Barbara",
+      "state": "CA",
+      "region": "Central California"
+    },
+    "specialties": ["Eco Weddings", "Sustainable Planning", "Organic Themes"],
+    "pricing": {
+      "startingPrice": 5000,
+      "priceRange": "$5,000 - $16,000",
+      "consultationFee": "Free"
+    },
+    "experience": {
+      "yearsInBusiness": 4,
+      "eventsCompleted": 95,
+      "teamSize": 3
+    },
+    "rating": 4.9,
+    "reviewCount": 67,
+    "responseTime": "Within 4 hours",
+    "verified": true,
+    "backgroundChecked": true,
+    "insured": true,
+    "profileImage": "/placeholder.svg?height=150&width=150",
+    "coverImage": "/placeholder.svg?height=200&width=400",
+    "featured": false,
+    "awards": ["Green Wedding Award"],
+    "certifications": ["Sustainable Event Planner"]
+  },
+  {
+    "id": "grand-gatherings-890",
+    "businessName": "Grand Gatherings",
+    "tagline": "Big Celebrations, Bigger Memories",
+    "description": "Specialists in large-scale weddings and events, managing celebrations with 300+ guests expertly.",
+    "owner": "Robert & Catherine Grand",
+    "email": "info@grandgatherings.com",
+    "phone": "+1 (555) 012-3456",
+    "website": "www.grandgatherings.com",
+    "location": {
+      "city": "Pasadena",
+      "state": "CA",
+      "region": "Southern California"
+    },
+    "specialties": ["Large Weddings", "Corporate Events", "Convention Centers"],
+    "pricing": {
+      "startingPrice": 12000,
+      "priceRange": "$12,000 - $35,000",
+      "consultationFee": "$300"
+    },
+    "experience": {
+      "yearsInBusiness": 13,
+      "eventsCompleted": 400,
+      "teamSize": 15
+    },
+    "rating": 4.7,
+    "reviewCount": 267,
+    "responseTime": "Within 2 hours",
+    "verified": true,
+    "backgroundChecked": true,
+    "insured": true,
+    "profileImage": "/placeholder.svg?height=150&width=150",
+    "coverImage": "/placeholder.svg?height=200&width=400",
+    "featured": true,
+    "awards": ["Large Event Specialist", "Logistics Excellence Award"],
+    "certifications": ["Master Event Coordinator", "Large Scale Event Manager"]
+  }
+]

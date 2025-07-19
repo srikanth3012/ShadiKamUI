@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Full Wedding Planning",
+    "description": "Complete wedding planning from engagement to honeymoon",
+    "price": "Starting at $8,000",
+    "duration": "12-18 months",
+    "popular": true,
+    "included": [
+      "Unlimited consultations",
+      "Venue selection & booking",
+      "Vendor coordination",
+      "Timeline creation",
+      "Day-of coordination",
+      "Emergency support",
+      "Post-wedding cleanup"
+    ],
+    "features": ["Most Popular", "Best Value"]
+  },
+  {
+    "id": 2,
+    "name": "Partial Wedding Planning",
+    "description": "Professional guidance for specific aspects of your wedding",
+    "price": "Starting at $4,500",
+    "duration": "6-12 months",
+    "included": [
+      "Monthly consultations",
+      "Vendor recommendations",
+      "Timeline assistance",
+      "Budget guidance",
+      "Design consultation",
+      "Final month coordination"
+    ],
+    "features": ["Great for DIY Couples"]
+  },
+  {
+    "id": 3,
+    "name": "Day-of Coordination",
+    "description": "Professional coordination on your special day",
+    "price": "Starting at $2,200",
+    "duration": "Wedding day + rehearsal",
+    "included": [
+      "Final planning meeting",
+      "Vendor coordination",
+      "Timeline management",
+      "Emergency handling",
+      "Setup supervision",
+      "Bridal party assistance"
+    ],
+    "features": ["Peace of Mind"]
+  },
+  {
+    "id": 4,
+    "name": "Destination Wedding Planning",
+    "description": "Expert planning for weddings away from home",
+    "price": "Starting at $12,000",
+    "duration": "12+ months",
+    "included": [
+      "Location scouting",
+      "Travel coordination",
+      "Local vendor network",
+      "Guest accommodation",
+      "Legal requirements",
+      "On-site coordination"
+    ],
+    "features": ["Specialty Service", "Travel Included"]
+  }
+]

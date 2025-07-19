@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Romantic Garden Wedding",
+    "description": "An enchanting outdoor ceremony with 180 guests featuring cascading florals and fairy lights",
+    "images": ["/placeholder.svg?height=400&width=600"],
+    "category": "Garden Wedding",
+    "date": "2024-06-15",
+    "guestCount": 180,
+    "venue": "Huntington Botanical Gardens",
+    "budget": "$45,000",
+    "style": "Romantic & Elegant",
+    "highlights": [
+      "Custom floral installations",
+      "Live string quartet",
+      "Farm-to-table catering"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Modern City Wedding",
+    "description": "Contemporary celebration in a downtown rooftop venue with stunning city skyline views",
+    "images": ["/placeholder.svg?height=400&width=600"],
+    "category": "Urban Wedding",
+    "date": "2024-04-20",
+    "guestCount": 220,
+    "venue": "Rooftop Terrace Downtown",
+    "budget": "$65,000",
+    "style": "Modern & Chic",
+    "highlights": [
+      "LED lighting design",
+      "Cocktail hour with city views",
+      "Contemporary cuisine"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Intimate Beach Ceremony",
+    "description": "Small beachside wedding with close family and friends, featuring natural coastal elements",
+    "images": ["/placeholder.svg?height=400&width=600"],
+    "category": "Beach Wedding",
+    "date": "2024-03-10",
+    "guestCount": 60,
+    "venue": "Malibu Beach Resort",
+    "budget": "$28,000",
+    "style": "Coastal & Intimate",
+    "highlights": ["Barefoot ceremony", "Seafood feast", "Sunset photography"]
+  },
+  {
+    "id": 4,
+    "title": "Cultural Fusion Wedding",
+    "description": "Beautiful blend of Indian and American traditions with vibrant colors and customs",
+    "images": ["/placeholder.svg?height=400&width=600"],
+    "category": "Cultural Wedding",
+    "date": "2024-02-14",
+    "guestCount": 350,
+    "venue": "Grand Ballroom Hotel",
+    "budget": "$85,000",
+    "style": "Cultural & Traditional",
+    "highlights": ["Mehendi ceremony", "Traditional music", "Fusion cuisine"]
+  }
+]

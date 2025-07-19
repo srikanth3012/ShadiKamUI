@@ -1,0 +1,82 @@
+{
+  "id": "elegant-events-123",
+  "businessName": "Elegant Events & Co.",
+  "tagline": "Creating Magical Moments That Last Forever",
+  "description": "With over 10 years of experience in luxury event planning, we specialize in creating extraordinary wedding celebrations that reflect each couple's unique love story. From intimate garden parties to grand ballroom affairs, we handle every detail with precision, creativity, and unmatched attention to detail. Our team of certified wedding planners has orchestrated over 300 successful events across the country.",
+  "category": "Event Organizer",
+  "specialties": [
+    "Luxury Weddings",
+    "Destination Weddings",
+    "Cultural Ceremonies",
+    "Corporate Events"
+  ],
+  "owner": "Sarah Johnson & Michael Chen",
+  "email": "hello@elegantevents.com",
+  "phone": "+1 (555) 123-4567",
+  "website": "www.elegantevents.com",
+  "address": {
+    "street": "123 Wedding Lane",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90210",
+    "country": "USA"
+  },
+  "socialMedia": {
+    "instagram": "@eleganteventsco",
+    "facebook": "ElegantEventsLA",
+    "twitter": "@elegantevents",
+    "linkedin": "elegant-events-co"
+  },
+  "businessHours": {
+    "weekdays": "9:00 AM - 6:00 PM",
+    "weekends": "10:00 AM - 4:00 PM",
+    "consultation": "By Appointment"
+  },
+  "pricing": {
+    "startingPrice": 3500,
+    "currency": "USD",
+    "priceRange": "$3,500 - $15,000",
+    "consultationFee": "Free"
+  },
+  "experience": {
+    "yearsInBusiness": 10,
+    "eventsCompleted": 300,
+    "teamSize": 8,
+    "averageEventSize": 150
+  },
+  "certifications": [
+    "Certified Wedding Planner (CWP)",
+    "Event Management Professional",
+    "Luxury Event Specialist",
+    "Cultural Wedding Expert"
+  ],
+  "awards": [
+    "Best Wedding Planner 2023 - LA Wedding Awards",
+    "Excellence in Service Award 2022",
+    "Top 10 Event Planners - California Weddings",
+    "Customer Choice Award 2023"
+  ],
+  "rating": 4.9,
+  "reviewCount": 187,
+  "responseRate": 98,
+  "responseTime": "Within 2 hours",
+  "verified": true,
+  "backgroundChecked": true,
+  "insured": true,
+  "profileImage": "/placeholder.svg?height=150&width=150",
+  "coverImage": "/placeholder.svg?height=400&width=1200",
+  "gallery": [
+    "/placeholder.svg?height=300&width=400&text=Gallery1",
+    "/placeholder.svg?height=300&width=400&text=Gallery2",
+    "/placeholder.svg?height=300&width=400&text=Gallery3",
+    "/placeholder.svg?height=300&width=400&text=Gallery4",
+    "/placeholder.svg?height=300&width=400&text=Gallery5",
+    "/placeholder.svg?height=300&width=400&text=Gallery6",
+    "/placeholder.svg?height=300&width=400&text=Gallery7",
+    "/placeholder.svg?height=300&width=400&text=Gallery8",
+    "/placeholder.svg?height=300&width=400&text=Gallery9",
+    "/placeholder.svg?height=300&width=400&text=Gallery10",
+    "/placeholder.svg?height=300&width=400&text=Gallery11",
+    "/placeholder.svg?height=300&width=400&text=Gallery12"
+  ]
+}

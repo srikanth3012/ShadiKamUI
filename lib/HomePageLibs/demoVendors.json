@@ -1,0 +1,80 @@
+[
+  {
+    "icon": "Calendar",
+    "title": "Event Planning",
+    "description": "Complete wedding planning and coordination services",
+    "features": [
+      "Timeline management",
+      "Vendor coordination",
+      "Day-of coordination",
+      "Budget planning"
+    ],
+    "priceRange": "From $2,000",
+    "popular": true
+  },
+  {
+    "icon": "MapPin",
+    "title": "Venue Selection",
+    "description": "Find the perfect venue for your special day",
+    "features": [
+      "Indoor & outdoor venues",
+      "Capacity planning",
+      "Location scouting",
+      "Contract negotiation"
+    ],
+    "priceRange": "From $500",
+    "popular": false
+  },
+  {
+    "icon": "Camera",
+    "title": "Photography",
+    "description": "Capture every precious moment beautifully",
+    "features": [
+      "Pre-wedding shoots",
+      "Wedding day coverage",
+      "Professional editing",
+      "Online gallery"
+    ],
+    "priceRange": "From $1,500",
+    "popular": true
+  },
+  {
+    "icon": "Utensils",
+    "title": "Catering",
+    "description": "Delicious cuisine for your guests",
+    "features": [
+      "Multi-cuisine options",
+      "Custom menus",
+      "Professional service",
+      "Dietary accommodations"
+    ],
+    "priceRange": "From $50/person",
+    "popular": false
+  },
+  {
+    "icon": "Music",
+    "title": "Entertainment",
+    "description": "Music and entertainment for all ages",
+    "features": [
+      "DJ services",
+      "Live bands",
+      "Sound systems",
+      "Lighting design"
+    ],
+    "priceRange": "From $800",
+    "popular": false
+  },
+  {
+    "icon": "Users",
+    "title": "Guest Management",
+    "description": "Seamless guest experience management",
+    "features": [
+      "RSVP tracking",
+      "Seating arrangements",
+      "Guest communications",
+      "Welcome services"
+    ],
+    "priceRange": "From $300",
+    "popular": true
+  }
+]
