@@ -1,6 +1,6 @@
-import ProfileHeaderSection from "@/components/event-organizers/preview/ProfileHeaderSection";
-import MainContentSection from "@/components/event-organizers/preview/MainContentSection";
-import SidebarSection from "@/components/event-organizers/preview/SidebarSection";
+import ProfileHeaderSection from "../../../../components/sharedComponents/event-organizers/preview/ProfileHeaderSection";
+import MainContentSection from "../../../../components/sharedComponents/event-organizers/preview/MainContentSection";
+import SidebarSection from "../../../../components/sharedComponents/event-organizers/preview/SidebarSection";
 // Mock event organizer data
 import eventOrganizer from "@/lib/eventOrganizers/preview/eventOrganizers.json";
 
