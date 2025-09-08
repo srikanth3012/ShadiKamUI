@@ -3,9 +3,11 @@ import Header from "@/components/Header/Header";
 import ReduxProvider from "./ReduxProvider";
 
 export const metadata = {
-  title: "v0 App",
-  description: "Created with v0",
-  generator: "v0.dev",
+  metadataBase: new URL("http://localhost:3000"),
+  title: "ShadiKam App",
+  icons: {
+    icon: "/heart.png", // Default favicon
+  },
 };
 
 export default function RootLayout({ children }) {
