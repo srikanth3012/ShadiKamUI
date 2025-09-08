@@ -3,11 +3,17 @@ import { Badge } from "@/components/ui/badge";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import Image from "next/image";
 import "./animation.css";
+import { useRouter } from "next/navigation";
 
 export const VendorCard = ({ vendor, setSelectedVendor }) => {
+  const router = useRouter();
+  const handleSelectedVendor = () => {
+    setSelectedVendor(vendor);
+    router.push("/v/1/preview");
+  };
   return (
     <Card
-      onClick={() => setSelectedVendor(vendor)}
+      onClick={handleSelectedVendor}
       className="cardReveal cursor-pointer  hover:shadow-xl transition-shadow duration-200"
     >
       <CardHeader className="p-0 relative">
