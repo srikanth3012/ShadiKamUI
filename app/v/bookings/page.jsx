@@ -20,7 +20,7 @@ import allBookings from "@/lib/vendor/bookings.json";
 export default function VendorBookingsPage() {
   const [searchTerm, setSearchTerm] = useState("");
   const [statusFilter, setStatusFilter] = useState("all");
-  const [selectedBooking, setSelectedBooking] = useState < any > null;
+  const [selectedBooking, setSelectedBooking] = useState(null);
   const [responseMessage, setResponseMessage] = useState("");
 
   const getStatusColor = (status) => {
