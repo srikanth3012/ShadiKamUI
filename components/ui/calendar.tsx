@@ -20,11 +20,10 @@ function Calendar({
       showOutsideDays={showOutsideDays}
       className={cn("p-3 bg-white rounded-md", className)}
       classNames={{
-        months:
-          "flex flex-col sm:flex-row gap-4 sm:gap-8 justify-center text-gray-900",
-        month: "space-y-4",
-        caption: "flex justify-between items-center px-2",
-        caption_label: "text-sm font-medium",
+        months: " flex flex-col items-center  gap-2   text-gray-900",
+        month: "flex flex-col text-center gap-4",
+        caption: "flex justify-between items-center bg px-2",
+        caption_label: "text-md  font-medium",
         nav: "flex items-center space-x-1",
         nav_button: cn(
           buttonVariants({ variant: "outline" }),
@@ -43,10 +42,9 @@ function Calendar({
           "[&:has([aria-selected])]:rounded-md"
         ),
         day: cn(
-          buttonVariants({ variant: "ghost" }),
-          "h-9 w-9 p-0 font-normal aria-selected:bg-primary aria-selected:text-white"
+          "h-9 w-9 p-0  font-normal aria-selected:bg-primary aria-selected:text-white hover:bg-gray-200 rounded-md "
         ),
-        day_selected: "bg-primary text-white",
+        day_selected: "bg-pink-100 text-white",
         day_today: "border border-primary text-primary",
         day_outside: "text-gray-300 opacity-50",
         day_disabled: "opacity-50 text-muted-foreground",

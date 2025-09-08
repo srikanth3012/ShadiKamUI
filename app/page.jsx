@@ -1,6 +1,5 @@
 import Footer from "@/components/Footer";
 import HeroSection from "@/components/homepage/HeroSection";
-import testimonials from "@/lib/HomePageLibs/testimonials.json";
 import FeatureVendorSection from "@/components/homepage/FeatureVendorSection";
 import ServiceSectiom from "@/components/homepage/ServiceSection";
 import SuccessSection from "@/components/homepage/SuccessSection";

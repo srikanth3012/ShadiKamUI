@@ -1,0 +1,70 @@
+{
+  "vendorProfile": {
+    "businessName": "Elegant Events",
+    "tagline": "Creating Unforgettable Wedding Experiences",
+    "description": "With over 8 years of experience in wedding planning, we specialize in creating elegant, personalized celebrations that reflect each couple's unique love story. From intimate gatherings to grand celebrations, we handle every detail with precision and care.",
+    "category": "Wedding Planning",
+    "owner": "Sarah Johnson",
+    "email": "sarah@elegantevents.com",
+    "phone": "+1 (555) 123-4567",
+    "website": "www.elegantevents.com",
+    "address": {
+      "city": "Los Angeles",
+      "state": "CA"
+    },
+    "socialMedia": {
+      "instagram": "@elegantevents",
+      "facebook": "ElegantEventsLA",
+      "twitter": "@elegantevents"
+    },
+    "pricing": {
+      "priceRange": "$2,000 - $8,000"
+    },
+    "experience": {
+      "yearsInBusiness": 8,
+      "eventsCompleted": 150
+    },
+    "rating": 4.9,
+    "reviewCount": 127,
+    "verified": true,
+    "profileImage": "/placeholder.svg?height=120&width=120",
+    "coverImage": "/placeholder.svg?height=300&width=800"
+  },
+  "services": [
+    {
+      "name": "Full Wedding Planning",
+      "description": "Complete wedding planning from start to finish",
+      "price": "Starting at $5,000",
+      "duration": "12+ months"
+    },
+    {
+      "name": "Day-of Coordination",
+      "description": "Professional coordination on your wedding day",
+      "price": "Starting at $1,500",
+      "duration": "Wedding day"
+    },
+    {
+      "name": "Partial Planning",
+      "description": "Assistance with specific aspects of your wedding",
+      "price": "Starting at $2,500",
+      "duration": "3-6 months"
+    }
+  ],
+  "portfolioItems": [
+    {
+      "title": "Elegant Garden Wedding",
+      "image": "/placeholder.svg?height=300&width=400",
+      "category": "Outdoor Wedding"
+    },
+    {
+      "title": "Modern City Wedding",
+      "image": "/placeholder.svg?height=300&width=400",
+      "category": "Urban Wedding"
+    },
+    {
+      "title": "Intimate Beach Ceremony",
+      "image": "/placeholder.svg?height=300&width=400",
+      "category": "Beach Wedding"
+    }
+  ]
+}

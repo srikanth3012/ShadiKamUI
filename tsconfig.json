@@ -30,10 +30,19 @@
     "app/page.jsx",
     "app/event-organizers/page.jsx",
     "app/event-organizers/[id]/page.jsx",
-    "app/booking/page.jsx",
-    "components/booking/step4.jsx",
+    "app/U/booking/page.jsx",
+    "components/User/booking/step4.jsx",
     "app/layout.jsx",
-    "app/bookings/page.jsx"
+    "app/U/bookings/page.jsx",
+    "app/v/dashboard/page.jsx",
+    "app/o/events/page.jsx",
+    "app/o/booking/page.jsx",
+    "app/v/bookings/page.jsx",
+    "app/o/event-organizers/loading.jsx",
+    "app/v/profile/page.jsx",
+    "app/v/[id]/preview/page.jsx",
+    "app/v/bookings/loading.jsx",
+    "app/o/events/loading.jsx"
   ],
   "exclude": ["node_modules"]
 }

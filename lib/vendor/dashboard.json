@@ -1,0 +1,80 @@
+{
+  "vendorData": {
+    "name": "Elegant Events",
+    "category": "Wedding Planning",
+    "rating": 4.9,
+    "totalReviews": 127,
+    "avatar": "/placeholder.svg?height=40&width=40",
+    "joinDate": "2022-03-15",
+    "completedBookings": 89,
+    "totalEarnings": 125000
+  },
+  "recentBookings": [
+    {
+      "id": "WED-ABC123",
+      "status": "pending",
+      "clientName": "Sarah & John",
+      "service": "Full Wedding Planning",
+      "date": "2024-07-15",
+      "time": "2:00 PM",
+      "value": 5000,
+      "guestCount": 150,
+      "venue": "Downtown Convention Center",
+      "requestDate": "2024-06-01"
+    },
+    {
+      "id": "WED-DEF456",
+      "status": "confirmed",
+      "clientName": "Emily & Michael",
+      "service": "Day-of Coordination",
+      "date": "2024-08-20",
+      "time": "10:00 AM",
+      "value": 1500,
+      "guestCount": 100,
+      "venue": "Riverside Gardens",
+      "requestDate": "2024-05-28"
+    },
+    {
+      "id": "WED-GHI789",
+      "status": "completed",
+      "clientName": "Lisa & David",
+      "service": "Wedding Planning",
+      "date": "2024-06-10",
+      "time": "11:00 AM",
+      "value": 4500,
+      "guestCount": 200,
+      "venue": "Grand Ballroom Hotel",
+      "requestDate": "2024-04-15"
+    }
+  ],
+  "stats": [
+    {
+      "title": "Total Bookings",
+      "value": "127",
+      "change": "+12%",
+      "icon": "Calendar",
+      "color": "text-blue-600"
+    },
+    {
+      "title": "This Month Revenue",
+      "value": "$18,500",
+      "change": "+8%",
+      "icon": "DollarSign",
+      "color": "text-green-600"
+    },
+    {
+      "title": "Pending Requests",
+      "value": "8",
+      "change": "+3",
+      "icon": "AlertCircle",
+      "color": "text-yellow-600"
+    },
+    {
+      "title": "Client Rating",
+      "value": "4.9",
+      "change": "+0.1",
+      "icon": "Star",
+      "color": "text-purple-600"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+.cardReveal {
+  animation: slideRight 2s ease-out both;
+  view-timeline-name: --cardRevealTimeline;
+  animation-timeline: --cardRevealTimeline;
+  animation-range: entry 5% cover 40%;
+  animation-fill-mode: both;
+  /* will-change: transform, opacity; */
+}
+/* 
+@keyframes slideRight {
+  0% {
+    transform: translateX(-0px) scale(0.5);
+    opacity: 0;
+  }
+  20% {
+    transform: translateX(-10px) scale(0.7);
+    opacity: 0.3;
+  }
+  50% {
+    transform: translateX(-100px) scale(0.8);
+    opacity: 0.6;
+  }
+  80% {
+    transform: translateX(-50px) scale(0.9);
+    opacity: 0.85;
+  }
+  100% {
+    transform: translateX(0px) scale(1);
+    opacity: 1;
+  }
+}
+
+.animate-slideleft {
+  animation: slidegift 3s ease;
+  animation-delay: 1s;
+}
+
+@keyframes slidegift {
+  0% {
+    transform: translateX(-10pxpx);
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+    transform: translateX(92px);
+  }
+} */

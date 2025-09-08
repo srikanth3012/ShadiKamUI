@@ -1,0 +1,57 @@
+{
+  "id": "elegant-events-123",
+  "businessName": "Elegant Events",
+  "tagline": "Creating Unforgettable Wedding Experiences",
+  "description": "With over 8 years of experience in wedding planning, we specialize in creating elegant, personalized celebrations that reflect each couple's unique love story. From intimate gatherings to grand celebrations, we handle every detail with precision and care.",
+  "category": "Wedding Planning",
+  "subcategories": [
+    "Full Service Planning",
+    "Day-of Coordination",
+    "Partial Planning"
+  ],
+  "owner": "Sarah Johnson",
+  "email": "sarah@elegantevents.com",
+  "phone": "+1 (555) 123-4567",
+  "website": "www.elegantevents.com",
+  "address": {
+    "street": "123 Wedding Lane",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90210",
+    "country": "USA"
+  },
+  "socialMedia": {
+    "instagram": "@elegantevents",
+    "facebook": "ElegantEventsLA",
+    "twitter": "@elegantevents"
+  },
+  "businessHours": {
+    "monday": { "open": "09:00", "close": "17:00", "closed": false },
+    "tuesday": { "open": "09:00", "close": "17:00", "closed": false },
+    "wednesday": { "open": "09:00", "close": "17:00", "closed": false },
+    "thursday": { "open": "09:00", "close": "17:00", "closed": false },
+    "friday": { "open": "09:00", "close": "17:00", "closed": false },
+    "saturday": { "open": "10:00", "close": "16:00", "closed": false },
+    "sunday": { "open": "", "close": "", "closed": true }
+  },
+  "pricing": {
+    "startingPrice": 2000,
+    "currency": "USD",
+    "priceRange": "$2,000 - $8,000"
+  },
+  "experience": {
+    "yearsInBusiness": 8,
+    "eventsCompleted": 150,
+    "teamSize": 5
+  },
+  "certifications": [
+    "Certified Wedding Planner",
+    "Event Management Professional"
+  ],
+  "awards": ["Best Wedding Planner 2023", "Excellence in Service Award"],
+  "rating": 4.9,
+  "reviewCount": 127,
+  "verified": true,
+  "profileImage": "/placeholder.svg?height=120&width=120",
+  "coverImage": "/placeholder.svg?height=300&width=800"
+}

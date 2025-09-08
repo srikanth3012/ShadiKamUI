@@ -10,9 +10,9 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select";
-import { Card, CardContent } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
+
 import {
   Dialog,
   DialogContent,
@@ -40,7 +40,7 @@ const platformStats = [
   { label: "Average Rating", value: "4.8★", icon: Star },
 ];
 
-const HeroSection = () => {
+const HeroSectionContent = () => {
   const [showQuickQuote, setShowQuickQuote] = useState(false);
 
   return (
@@ -69,7 +69,7 @@ const HeroSection = () => {
             className="bg-rose-500 hover:bg-rose-600 text-lg px-8 py-4"
             asChild
           >
-            <Link href="/booking">
+            <Link href="/booking" aria-label="Start Planning">
               Start Planning
               <ArrowRight className="w-5 h-5 ml-2" />
             </Link>
@@ -161,5 +161,9 @@ const HeroSection = () => {
     </>
   );
 };
+
+function HeroSection() {
+  return <HeroSectionContent />;
+}
 
 export default HeroSection;

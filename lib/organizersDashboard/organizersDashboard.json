@@ -1,0 +1,68 @@
+{
+  "upcomingEvents": [
+    {
+      "id": "1",
+      "title": "Sarah & Michael's Wedding",
+      "date": "2024-06-15",
+      "venue": "Beverly Hills Hotel",
+      "guests": 150,
+      "status": "planning",
+      "progress": 75,
+      "client": {
+        "name": "Sarah Johnson",
+        "email": "sarah@email.com",
+        "phone": "+1 (555) 123-4567"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Corporate Gala Event",
+      "date": "2024-07-20",
+      "venue": "Downtown Convention Center",
+      "guests": 300,
+      "status": "confirmed",
+      "progress": 45,
+      "client": {
+        "name": "Tech Corp Inc.",
+        "email": "events@techcorp.com",
+        "phone": "+1 (555) 987-6543"
+      }
+    }
+  ],
+  "recentBookings": [
+    {
+      "id": "1",
+      "clientName": "Emily & David",
+      "eventType": "Wedding",
+      "date": "2024-08-10",
+      "status": "pending",
+      "value": "$12,000"
+    },
+    {
+      "id": "2",
+      "clientName": "Johnson Family",
+      "eventType": "Anniversary",
+      "date": "2024-09-05",
+      "status": "confirmed",
+      "value": "$5,500"
+    }
+  ],
+  "vendorRequests": [
+    {
+      "id": "1",
+      "vendorName": "Elegant Catering Co.",
+      "service": "Catering",
+      "event": "Sarah & Michael's Wedding",
+      "status": "pending",
+      "requestDate": "2024-01-15"
+    },
+    {
+      "id": "2",
+      "vendorName": "Perfect Photos Studio",
+      "service": "Photography",
+      "event": "Corporate Gala Event",
+      "status": "confirmed",
+      "requestDate": "2024-01-14"
+    }
+  ]
+}
